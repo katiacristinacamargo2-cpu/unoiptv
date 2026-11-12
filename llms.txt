@@ -1,0 +1,27 @@
+# Uno IPTV
+
+> Uno IPTV (unoiptv.com.br) é um serviço brasileiro de IPTV: canais ao vivo, filmes e séries pela internet, em até 4K, para Smart TV, TV Box, celular e computador. Todo cliente pode fazer um teste grátis de 6 horas, sem cartão, antes de assinar. Não confundir com o app "UNO IPTV" da App Store, que é de outra empresa.
+
+Fatos principais:
+
+- Teste grátis: 6 horas, sem cartão de crédito, liberado pelo WhatsApp em poucos minutos.
+- Planos: mensal R$ 30, trimestral R$ 80 (cerca de R$ 26,67 por mês), anual R$ 280 (cerca de R$ 23,33 por mês).
+- Sem fidelidade e sem multa de cancelamento. Direito de arrependimento de 7 dias (art. 49 do CDC).
+- Pagamento: Pix ou cartão de crédito.
+- Suporte: humano, pelo WhatsApp, 24 horas por dia.
+- Aparelhos: Smart TV (Tizen e webOS), TV Box Android, stick HDMI, celular e tablet Android e iOS, computador Windows e Mac, tvOS e Roku OS.
+- Internet mínima por tela: SD 5 Mbps, HD 10 Mbps, Full HD 15 Mbps, 4K 25 Mbps.
+
+## Páginas principais
+
+- [Início](https://unoiptv.com.br/): teste grátis, planos e perguntas frequentes
+- [Como funciona o teste IPTV](https://unoiptv.com.br/teste-iptv/): guia completo do teste de 6 horas
+- [Tutoriais de instalação](https://unoiptv.com.br/tutoriais/): passo a passo por aparelho
+
+## Empresa e políticas
+
+- [Sobre a Uno IPTV](https://unoiptv.com.br/sobre/): quem somos, como trabalhamos, dados da empresa
+- [Contato](https://unoiptv.com.br/contato/)
+- [Termos de uso](https://unoiptv.com.br/termos/)
+- [Política de privacidade](https://unoiptv.com.br/privacidade/)
+- [Cancelamento e reembolso](https://unoiptv.com.br/reembolso/)
